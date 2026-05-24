@@ -27,7 +27,7 @@ function App() {
     try {
 
       const response = await fetch(
-        "https://YOUR-RENDER-URL.onrender.com/register",
+        "https://latte-after-dark.onrender.com/register",
         {
           method: "POST",
           headers: {
