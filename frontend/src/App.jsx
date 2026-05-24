@@ -58,7 +58,7 @@ function App() {
 
     <div className="container">
 
-      <h1>Barista Competition</h1>
+      <h1> Barista After Dark Latte art Competition</h1>
 
       <form onSubmit={handleSubmit}>
 
