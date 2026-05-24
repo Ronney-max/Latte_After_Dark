@@ -1,0 +1,30 @@
+body {
+  background: #111;
+  color: white;
+  font-family: Arial;
+}
+
+.container {
+  width: 400px;
+  margin: auto;
+  padding-top: 50px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+input,
+select,
+button {
+  padding: 12px;
+  border: none;
+  border-radius: 5px;
+}
+
+button {
+  background: orange;
+  cursor: pointer;
+}
